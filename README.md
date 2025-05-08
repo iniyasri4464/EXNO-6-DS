@@ -341,4 +341,4 @@ sns.kdeplot(data=mart,x='Unit price',y='gross income')
 
 
 # Result:
- Include your result here
+Thus, all the data visualization techniques of seaborn has been implemented.
